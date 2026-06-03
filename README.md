@@ -72,7 +72,7 @@ See SSP-CyberLab-Combined.docx in this repository.
 - SCC HTML compliance scan report
 
 ## Related Project
-[RHEL 10 STIG Hardening Lab](https://github.com/yourusername/rhel10-stig-hardening-lab](https://github.com/AlexC0des/rhel10-stig-hardening-lab)
+[RHEL 10 STIG Hardening Lab](https://github.com/AlexC0des/rhel10-stig-hardening-lab)
 
 ## Skills Demonstrated
 
